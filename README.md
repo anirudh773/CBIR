@@ -7,9 +7,11 @@ Abbreviations
 ## Output
 The precision vs. recall for comparing the partial features of the proposed method with the proposed method for six DBs: a Corel, b
 Corel_MR, c Corel_MD, d VisTex, e VisTex_MR, and f VisTex_MD:
-![](images/a.png)(images/b.png)
+![](images/a.png)![](images/b.png)
 ![](images/c.png)
 ![](images/d.png)
+![](images/e.png)
+![](images/f.png)
 
 
 ## References
