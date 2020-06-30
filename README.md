@@ -6,7 +6,7 @@ Abbreviations
 * DB Database
 ## Output
 Inline-style:
-![alt text]( https://github.com/CBIR/images/a.png "Logo Title Text 1")
+![](images/a.png)
 
 
 ## References
